@@ -1,0 +1,8 @@
+This is the first version of myFile
+Hello, Welcome to Git World!!!
+My name is Pujitha Malladi. 
+
+
+
+Today is Thursday Nov. 16 is our second git/github practice.
+
