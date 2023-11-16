@@ -1,0 +1,39 @@
+    1  pwd
+    2  cd Desktop/
+    3  mkdir MyGitExplore
+    4  mkdir Desktop
+    5  cd Desktop
+    6  mkdir MyGitExplore
+    7  cd MyGitExplore
+    8  history
+    9  git config --global user.name " Pujitha "
+   10  git config --global user.name " pmalladi@my.okcu.edu "
+   11  history
+   12  ls
+   13  ls -al
+   14  git init
+   15  ls
+   16  ls -al
+   17  ls
+   18  which nano
+   19  nano myFile1.txt
+   20  ls
+   21  ls -al
+   22  ls
+   23  git add .
+   24  git add myFile1.txt
+   25  git commit -m "This is the first version of myFile1.txt"
+   26  git config --global user.name " Pujitha "
+   27  git config --global user.email " pmalladi@my.okcu.edu "
+   28  history
+   29  git commit -m "This is the first version of myFile1.txt"
+   30  ls
+   31  git remote add origin https://github.com/Pujitha-Reddy/Today-11-14-2023-
+   32  ls
+   33  git push -u origin master
+   34  git push -u origin master
+   35  history > Today-11-14-2023-
+   36  history
+   37  git remote add origin https://github.com/Pujitha-Reddy/Today-11-14-2023-
+   38  git push -u origin master
+   39  history > Today-11-14-2023-
