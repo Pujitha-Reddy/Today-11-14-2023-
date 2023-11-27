@@ -6,3 +6,4 @@ My name is Pujitha Malladi.
 
 Today is Thursday Nov. 16 is our second git/github practice.
 
+This is the second version of myFile2.txt
